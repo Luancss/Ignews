@@ -55,23 +55,22 @@ $ yarn test
 - Falha no pagamento: 4000 0000 0000 9995
 - Precisa de autenticação: 4000 0025 0000 3155
 
-## Layout (by @tiagoluchtenberg) 🤩
 
 ### Desktop (screenshot):
 
 | Home  | Post List | 
 | --- | --- |
-| <img src="./layout/layout-desktop-1.png" /> | <img src="2" /> | 
+| <img src="layout/layout-desktop-1.png" /> | <img src="layout/layout-desktop-2.png" /> | 
 
 | Post Preview | Checkout |
 | --- | --- |
-| <img src="3" /> | <img src="4" /> |
+| <img src="layout/layout-desktop-3.png" /> | <img src="layout/layout-desktop-4.png" /> |
 
 ### Mobile (screenshot):
 
 | Home | Post List | Post | Checkout |
 | --- | --- | --- | --- |
-| <img src="1" width='275px' /> | <img src="2" width='275px' /> | <img src="3" width='275px' /> | <img src="4" width='275px' /> |
+| <img src="layout/layout-mobile-1.png" width='275px' /> | <img src="layout/layout-mobile-2.png" width='275px' /> | <img src="layout/layout-mobile-3.png" width='275px' /> | <img src="layout/layout-mobile-4.png" width='275px' /> |
 
 ### Dê uma olhada como o projeto ficou! 👀
 
