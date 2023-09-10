@@ -77,6 +77,3 @@ $ yarn test
 
 ...
 
-<br>
-
-<img src="https://i.ibb.co/n1SbQZw/w-signature.png" alt="w-signature" border="0" width='300px' />
