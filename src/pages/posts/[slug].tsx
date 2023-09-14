@@ -14,7 +14,6 @@ interface PostProps {
   }
 }
 
-
 export default function Post({post}: PostProps) {
   return (
     <>
@@ -49,7 +48,6 @@ export const getServerSideProps: GetServerSideProps = async ({
       }
     }
   }
-
 
   const prismic = getPrismicClient(req);
   const response = await prismic.getByUID("publication", String(slug), {});
